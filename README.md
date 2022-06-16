@@ -1,5 +1,5 @@
-# Projeto do 2º Bimestre do componente de Aplicações para Web 
+# Projeto do 2º Bimestre
 
 Desenvolvido por: Akemi Alice e Hysabelly Nunes
 
-- Instituto Federal de São Paulo
+- Instituto Federal de São Paulo - Componete "AW1"
