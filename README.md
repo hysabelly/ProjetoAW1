@@ -5,10 +5,12 @@
 Realizado por: Akemi Alice e Hysabelly Nunes <br>
 Site utilizado: https://www.guiatrabalhista.com.br/guia/pat.htm
 
-##Antes:
+#Antes:
 
-![11ae895b-cfc4-4e65-b695-16ad4d7eca9b](https://user-images.githubusercontent.com/86382666/176087878-a24d14fc-8f04-4319-b5fe-e4520d1600e2.jpg)
-
-##Depois:
+![Screenshot_1](https://user-images.githubusercontent.com/86382666/176088052-f99a8bff-7ccd-4b19-a843-228b690ccd95.png)
 
 
+#Depois:
+
+
+![Screenshot_2](https://user-images.githubusercontent.com/86382666/176088087-c188b191-55e3-42dc-9415-da2225d7adc6.png)
