@@ -36,3 +36,11 @@
 {
     margin: 40px 0;
 }
+
+.conteudo-principal-contato {
+    text-align: center;
+    padding: 30px;
+    font-family: 'Sarala', sans-serif;
+    font-size: 30px;
+    color: #4f2742;
+  }
