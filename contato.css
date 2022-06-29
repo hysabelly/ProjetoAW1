@@ -1,1 +1,38 @@
+*{
+    background-color: #fef2fa;
+}
+.en-label 
+{
+    display: block;
+    margin: 8px auto;
+    width: 50%;
+}
 
+#checkbox, .div-en 
+{
+    margin: 30px auto;
+}
+
+.entry, .forms textarea 
+{
+    display: block;
+    margin: 0 auto 25px;
+    padding: 4px 9px;
+    font-size: 18px;
+    width: 50%;
+    box-sizing: border-box;
+    resize: none;
+    overflow: auto;
+}
+
+.contato 
+{
+    width: 1000px;
+    margin: 0 auto;
+    font-size: 20px;
+}
+
+.forms 
+{
+    margin: 40px 0;
+}
