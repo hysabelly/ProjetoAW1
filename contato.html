@@ -1,1 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
 
+<head>
+  <meta charset="UTF-8">
+  <title>Entre em contato Conosco</title>
+  <link rel="stylesheet" type="text/css" href="contato.css">
+  <link rel="icon" href="http://www.guiatrabalhista.com.br/favicon.ico" type="image/x-icon" />
+  <link rel="shortcut icon" href="http://www.guiatrabalhista.com.br/favicon.ico" type="image/x-icon" />
+</head>
+
+<body>
+    <!--
+    contato
+    por: akemi e hysabelly
+    -->
+    <main class="contato">
+        <form class="forms">
+            <label class="en-label" for="name">Digite o seu nome completo:</label>
+            <input class="entry" type="text" name="" id="name" required>
+
+            <label class="en-label" for="email">Digite o seu melhor email:</label>
+            <input class="entry" type="email" name="" id="email" required>
+
+            <label class="en-label" for="phone">Insira um número para contato:</label>
+            <input class="entry" type="tel" name="" id="phone" required>
+
+            <label class="en-label" for="message">Deixe aqui sua mensagem:</label>
+            <textarea class="entry" name="" id="message" cols="30" rows="10"></textarea>
+
+            <div class="div-en">
+                <p class="en-label"> Como prefere que entremos em contato?</p>
+                <label class="en-label" for="email"><input type="radio" name="contato"
+                        id="email">Email</label>
+
+                <label class="en-label" for="phone"><input type="radio" name="contato"
+                        id="phone">Telefone</label>
+
+                <label class="en-label" for="whatsapp" lang="en"><input type="radio" name="contato"
+                        id="whatsapp">Whatsapp</label>
+            </div>
+
+            <input class="entry" type="submit" value="Enviar formulário">
+        </form>
+    </main>
+</body>
+</html>
