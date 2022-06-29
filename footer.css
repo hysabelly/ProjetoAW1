@@ -1,0 +1,21 @@
+.rodape {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 32px;
+    border-top: 0.4px solid #4f2742;
+  }
+  
+  .rodape-menu {
+    display: flex;
+    gap: 32px;
+  }
+  
+  .rodape-menu-item {
+    font-family: 'Sarala', sans-serif;
+    color: #4f2742 ;
+    font-weight: 400;
+    font-size: 18px
+  }
+  
